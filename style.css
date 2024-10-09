@@ -1,0 +1,32 @@
+
+        .n {
+            height: 100px;
+        }
+
+        nav img {
+            height: 120px;
+            width: auto;
+        }
+
+        .card {
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: scale(1.05); 
+        }
+        li:hover{
+            transform: scale(1.1);
+            color: #1b70cc;
+            
+        }
+    li{
+        font-family: "Roboto", sans-serif;
+    }
+    p{
+        font-family: "Roboto", sans-serif;
+    }
+    #ncard:hover{
+        box-shadow: 15px 15px 35px 35px black;
+
+    }
